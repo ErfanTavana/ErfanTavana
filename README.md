@@ -82,31 +82,41 @@ how backend systems behave in real-world environments — not just how they work
 
 ## ⭐ Featured Projects
 
-### 🎓 UniSchedule
-Backend system for managing university schedules, locations, and academic workflows,  
-designed with a layered architecture and real-world constraints in mind.  
-🔗 https://github.com/ErfanTavana/unischedule
+<table>
+<tr>
+<td width="50%">
 
----
+### 🎓 UniSchedule
+University scheduling and academic management backend  
+<a href="https://github.com/ErfanTavana/unischedule">View Repository →</a>
+
+</td>
+<td width="50%">
 
 ### 🤖 InstaIDBot
-Bot-based backend service for handling user interactions and external API integrations,  
-with a focus on reliability and real-world usage.  
-🔗 https://github.com/ErfanTavana/InstaIDBot
+Bot-based backend service with external API integrations  
+<a href="https://github.com/ErfanTavana/InstaIDBot">View Repository →</a>
 
----
+</td>
+</tr>
+
+<tr>
+<td>
 
 ### 🛠 pid-killer
-A small and focused system utility designed for safe and controlled process management,  
-emphasizing clarity and reliability over complexity.  
-🔗 https://github.com/ErfanTavana/pid-killer
+Small system utility for safe and controlled process management  
+<a href="https://github.com/ErfanTavana/pid-killer">View Repository →</a>
 
----
+</td>
+<td>
 
 ### 🔌 SmartDoorControl
-An IoT-oriented backend system for controlling physical access devices,  
-focusing on real-time control, reliability, and hardware interaction.  
-🔗 https://github.com/ErfanTavana/SmartDoorControl
+IoT-oriented backend for physical access control  
+<a href="https://github.com/ErfanTavana/SmartDoorControl">View Repository →</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
