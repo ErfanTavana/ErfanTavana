@@ -20,7 +20,7 @@ how backend systems behave in real-world environments — not just how they work
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/celery/celery-original.svg" width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/icon/icons/rabbitmq/rabbitmq-original.svg" width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="30" />
 </p>
 
 - Background task processing using Celery  
