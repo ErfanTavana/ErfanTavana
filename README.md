@@ -80,6 +80,36 @@ how backend systems behave in real-world environments — not just how they work
 
 ---
 
+## ⭐ Featured Projects
+
+### 🎓 UniSchedule
+Backend system for managing university schedules, locations, and academic workflows,  
+designed with a layered architecture and real-world constraints in mind.  
+🔗 https://github.com/ErfanTavana/unischedule
+
+---
+
+### 🤖 InstaIDBot
+Bot-based backend service for handling user interactions and external API integrations,  
+with a focus on reliability and real-world usage.  
+🔗 https://github.com/ErfanTavana/InstaIDBot
+
+---
+
+### 🛠 pid-killer
+A small and focused system utility designed for safe and controlled process management,  
+emphasizing clarity and reliability over complexity.  
+🔗 https://github.com/ErfanTavana/pid-killer
+
+---
+
+### 🔌 SmartDoorControl
+An IoT-oriented backend system for controlling physical access devices,  
+focusing on real-time control, reliability, and hardware interaction.  
+🔗 https://github.com/ErfanTavana/SmartDoorControl
+
+---
+
 ### 🧩 Domains I’ve Worked On
 - 🎓 University & academic management systems
 - 🏢 Multi-level organizational workflows
@@ -92,14 +122,6 @@ how backend systems behave in real-world environments — not just how they work
 - JavaScript fundamentals with a backend-oriented mindset
 - Tailwind CSS for clean and maintainable UI design
 - React and Next.js to gradually move toward full-stack development
-
----
-
-### 📌 Pinned Projects
-- **UniSchedule** — University scheduling and academic management backend  
-- **InstaIDBot** — Bot-based service with external API integration  
-- **pid-killer** — Small system utility with a focused responsibility  
-- **SmartDoorControl** — IoT-oriented backend for physical access control  
 
 ---
 
